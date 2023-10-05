@@ -50,4 +50,5 @@ I extend my gratitude to these dedicated team members who contributed to the suc
 - Tolulope Adeleke
 - Andi Jafta
 - Musa Aliu
+  
 This case study underscores our commitment to advancing renewable energy utilization and contributing to informed energy policy decisions in Spain.
