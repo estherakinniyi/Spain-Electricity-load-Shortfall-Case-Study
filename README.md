@@ -44,10 +44,10 @@ The Spanish Government is contemplating increased investments in renewable energ
 
 I extend my gratitude to these dedicated team members who contributed to the success of this project:
 
-Ouinn Grace
-Timmy Egbe
-Gideon Odekina
-Tolulope Adeleke
-Andi Jafta
-Musa Aliu
+- Ouinn Grace
+- Timmy Egbe
+- Gideon Odekina
+- Tolulope Adeleke
+- Andi Jafta
+- Musa Aliu
 This case study underscores our commitment to advancing renewable energy utilization and contributing to informed energy policy decisions in Spain.
